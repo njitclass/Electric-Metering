@@ -4,7 +4,9 @@
 
 ##作业提交流程
 
-1.请各组注册一个github账号，如电营销121班第1组，注册为dyx121group1，其余组依次类推。注册需要进行邮箱认证，才能使用所有功能。
+1.点击如下网址：https://github.com 
+
+请各组注册一个github账号，如电营销121班第1组，注册为dyx121group1，其余组依次类推。注册需要进行邮箱认证，才能使用所有功能。
 
 2.登陆自己的账户，然后点击如下网址：https://github.com/njitclass/Electric-Metering
 
