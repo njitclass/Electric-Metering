@@ -6,7 +6,7 @@
 
 1.请各组注册一个github账号，如电营销121班第1组，注册为dyx121group1，其余组依次类推。注册需要进行邮箱认证，才能使用所有功能。
 
-2.登陆自己的账户，然后转到如下网址：
+2.登陆自己的账户，然后点击如下网址：https://github.com/njitclass/Electric-Metering
 
 3.点击右上角的Fork。你会发现自己的账号下多了一个Electic-Metering文件夹。
 
