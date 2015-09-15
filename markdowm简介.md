@@ -125,6 +125,12 @@ Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符�
 
 \*literal asterisks\*
 
+## Markdown Resources
+
+The Offical Markdown Documentation  
+http://daringfireball.net/projects/markdown/basics  
+Github's Markdown Guide  
+https://help.github.com/articles/github-flavored-markdown
 
 
 
