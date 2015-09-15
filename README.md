@@ -16,7 +16,7 @@
 
 5.完成后，commit change一下。再点右侧栏的像磁铁的Pull requests. 点new pull request.耐心等待到出现绿色create pull request按钮。点击该按钮。再次点击create pull request按钮。
 
-当出现类似：
+当页面上出现类似：
 dyx12XgroupX  wants to merge 1 commit into njitclass:master from dyx12XgroupX:master就提交成功了。
 
 ##作业要求
