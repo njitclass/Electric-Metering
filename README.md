@@ -6,7 +6,7 @@
 
 1.点击如下网址：https://github.com 
 
-请各组注册一个github账号，如电营销121班第1组，注册为dyx121group1，其余组依次类推。注册需要进行邮箱认证，才能使用所有功能。
+请各组以后面的规则注册一个github账号，如电营销121班第1组，注册为dyx121group1，其余组依次类推。注册需要进行邮箱认证，才能使用所有功能。
 
 2.登陆自己的账户，然后点击如下网址：https://github.com/njitclass/Electric-Metering
 
@@ -14,7 +14,7 @@
 
 4.选择作业应提交的文件，点击铅笔状的编辑按钮，就可以将作业复制粘贴到该文件。
 
-5.完成后，committe一下。再点右侧栏的像磁铁的Pull requests即可
+5.完成后，commit change一下。再点右侧栏的像磁铁的Pull requests即可
 
 ##作业要求
 
