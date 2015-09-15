@@ -14,7 +14,7 @@
 
 4.选择作业应提交的文件，点击铅笔状的编辑按钮，就可以将作业复制粘贴到该文件。
 
-5.完成后，commit change一下。再点右侧栏的像磁铁的Pull requests即可
+5.完成后，commit change一下。再点右侧栏的像磁铁的Pull requests.
 
 ##作业要求
 
