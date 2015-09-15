@@ -84,9 +84,6 @@ I spend so much time reading [R bloggers][1] and [Simply Statistics][2]!
 [2]: http://simplystatistics.org/ "Simply Statistics"
 
 
-
-
-
 ## 引用
 
 需要引用他人的文字，这个时候引用这个格式就很有必要了，在 Markdown 中，你只需要在你希望引用的文字前面加上 > 就好了，例如：（这里的引用用的是缩进显示）
@@ -101,11 +98,17 @@ I spend so much time reading [R bloggers][1] and [Simply Statistics][2]!
 
 ## 代码区块
 
-要在Markdown中插入代码，有两种选择。 一种是把代码用反引号(`)(键盘上Esc键下面的键)包起，例如：
+要在Markdown中插入代码，有两种选择。 
+
+###行内嵌入格式
+
+把代码用反引号(`)(键盘上Esc键下面的键)包起，例如：
 
 夹杂着 `matplotlib` 的文字内容,
 
-又或者缩进1个制表符或至少四个空格的行，例如：
+###独立代码块格式
+
+缩进1个制表符或至少四个空格的行，例如：
 
     第一行代码
     第二行代码
