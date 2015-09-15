@@ -95,8 +95,28 @@ Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符�
 
 ---
 
+##表格
+
+GFM Markdown表格语法也很简单。它不允许跨行合并格子，也不允许在一个格子中有多行文字。第一行总是表的加粗的标题，其下紧跟一行"-"虚线。可选的冒号 ":"(注意是英文的冒号)来决定列对齐方式。冒号在右，右对齐；冒号在两侧，居中对齐；没有冒号，左对齐。
+
 |    Item   |          |           |   |   |
 |:---------:|---------:|:----------|---|---|
 | 居中对齐  |   右对齐 | 左对齐    |   |   |
 | 1         | bbbbbbbbb| 111111111 |   |   |
 | aaaaaaaaa |        1 | 1         |   |   |
+
+
+我们知道数学公式输入要借助于Latex表达方式。这种方式是学术界的标准，排版美观，但是要记住很多命令。不过现在有了折中的方法。感谢万能的互联网，感谢韩国棒子给我们提供了在线的数学公式编辑器。使用它，我们能用鼠标和键盘输入公式，然后它自动转化为latex表达，再直接复制到剪贴板中，然后粘贴到markdown元胞中即可！
+[Daum公式编辑器在线版](http://s1.daumcdn.net/editor/fp/service_nc/pencil/Pencil_chromestore.html);当然还有更好的方法，安装mathtype软件，然后在word中先用mathtype编辑好公式，然后在mathtype中preferrence--transtor--translation into other languages---latex 之后在mathtype中将编辑好的公式复制，然后粘贴到markdown元胞即可。作业建议就用mathtype先在word中做好，然后打开mathtype复制再粘贴到这里的markdown元胞。
+mathtype建议下载较低版本5.0，猛戳这里[mathtype5](http://ishare.iask.sina.com.cn/f/17191432.html)
+
+在markdown元胞中输入数学公式
+
+- 在行内输入公式或表达式，与文字混编。方法：在latex表达式两端加上$。
+
+- 另起一行作为公式行。方法：在在latex表达式两端加上$$。
+
+例如，将$x=a^2$代入$y=\frac{1}{x+1}$,可得：
+
+$$y=\frac{1}{a^2+1}$$
+
