@@ -19,6 +19,18 @@
 当页面上出现类似：
 dyx12XgroupX  wants to merge 1 commit into njitclass:master from dyx12XgroupX:master就提交成功了。
 
+## 将自己的文件夹更新到教师文件夹的方法
+
+1. 点击网址：用自己的账号登录github，点击网址：https://github.com/njitclass/Electric-Metering
+
+2. 点左上角绿色按钮， 将base fork：改为你的文件夹，...fork ahead：改为njitclass/Electric-Metering。
+
+若看不到base fork：请点蓝色的compare across forks。
+
+一定要点下拉菜单选择 base fork：你的文件夹，fork ahead:njitclass/Electric-Metering 若顺序颠倒，就会发生错误！
+
+3. 等一会点create pull request。点merge pull request。最后点confirm merge。OK
+
 ##作业要求
 
 1.作业必须输入完整的题目。
