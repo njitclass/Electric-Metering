@@ -12,7 +12,7 @@
 
 3.点击右上角的Fork。你会发现自己的账号下多了一个Electic-Metering文件夹。
 
-4.选择作业应提交的文件，点击铅笔状的编辑按钮，就可以将作业复制粘贴到该文件。
+4.选择作业应提交的文件，点击铅笔状的编辑按钮，就可以将作业复制粘贴到该文件。并参考本文件夹的**markdown简介**介绍的方法调整格式。下划线用括号代替。
 
 5.完成后，commit change一下。再点右侧栏的像磁铁的**Pull requests**. 点**new pull request**.耐心等待到出现绿色**create pull request**按钮。点击该按钮。再次点击create pull request按钮。
 
