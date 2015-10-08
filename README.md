@@ -29,7 +29,7 @@ dyx12XgroupX  wants to merge 1 commit into njitclass:master from dyx12XgroupX:ma
 
 ##作业要求
 
-1.作业必须输入完整的题目。
+1.作业必须**输入完整的题目**，否则零分。
 
 2.作业中的计算题有解题过程。其他题，鼓励同学写解题思路或相关知识点介绍，这会提高作业成绩。
 
