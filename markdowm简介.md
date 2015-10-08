@@ -24,8 +24,8 @@
 
 用上标标识符<sup></sup>下标标识符<sub></sub>将上、下标的内容包裹起来即可。
 
-P=I<sup>2</sup>R；P<sub>1</sub>=I<sub>1</sub><sup>2</sup>R<sub>1</sub>
-Q=UICosφ  注：希腊字母用输入法中软键盘右键选希腊字母。  
+P=I<sup>2</sup>R；P<sub>1</sub>=I<sub>1</sub><sup>2</sup>R<sub>1</sub>  
+Q=UISinφ  注：希腊字母用输入法中软键盘右键选希腊字母。  
 
 max z = 3x<sub>1</sub>+4x<sub>2</sub>  
 s.t.   
