@@ -19,7 +19,7 @@
 当页面上出现类似：
 dyx12XgroupX  wants to merge 1 commit into njitclass:master from dyx12XgroupX:master就提交成功了。
 
-## 将自己的文件夹更新到教师文件夹的方法
+## 将自己的文件夹更新到与教师文件夹一致的方法
 
 1. 点击网址：用自己的账号登录github，点击网址：https://github.com/njitclass/Electric-Metering
 
